@@ -1,1 +1,0 @@
-# young-nation-management-system
